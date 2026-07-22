@@ -11,6 +11,8 @@ pre: " <b> 5. </b> "
 
 This workshop documents the FCAJ Hybrid SOC/AWS project: a hybrid SOC pipeline that starts from local security evidence, moves events into AWS, processes them through cloud data services and AI/Fusion components, and prepares final alerts for downstream storage, monitoring, and dashboard views.
 
+**Demo Recording:** [Google Drive](https://drive.google.com/file/d/18ljTLYzUJFfScLQknMmViWRYAGiugDy_/view?usp=drive_link)
+
 The current workshop is organized into 11 main sections. Some sections are already written with evidence, while others are skeleton s waiting for the responsible owner to add verified content and screenshots.
 
 ## Workshop content

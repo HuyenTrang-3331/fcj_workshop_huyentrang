@@ -11,6 +11,8 @@ pre: " <b> 5. </b> "
 
 Workshop này mô tả project FCAJ Hybrid SOC/AWS: một pipeline SOC hybrid bắt đầu từ security evidence ở local lab, đưa event lên AWS, xử lý qua các cloud data service và AI/Fusion component, rồi chuẩn bị final alert cho lưu trữ, monitoring và dashboard downstream.
 
+**Demo Recording:** [Google Drive](https://drive.google.com/file/d/18ljTLYzUJFfScLQknMmViWRYAGiugDy_/view?usp=drive_link)
+
 Workshop hiện được tổ chức thành 11 section chính. Một số section đã có nội dung và evidence, các section còn lại là skeleton  chờ người phụ trách bổ sung nội dung và screenshot đã xác minh.
 
 ## Nội dung workshop
